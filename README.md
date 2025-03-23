@@ -5,6 +5,8 @@ A simple DMGMeter for the MMORPG Nostale that decrypts the packet received from 
 
 Project written using Tauri framework for the frontend and C# for the backend with [TauriDotNetBridge](https://github.com/plainionist/TauriDotNetBridge) 
 
+![NostaleDPSMeterImg](https://i.imgur.com/aEUpFcX.png)
+
 ## Getting Started
 The initial setup is actually simple.
 
